@@ -2,6 +2,11 @@
 
 I've taken and edited this source code, now you are unlikely to get a VAC ban!
 
+If you get an error, add the reference dll's to properties.
+
+Reference dll files --> https://github.com/CrackerRatra/The-Ratra-/blob/main/ReferencesDlls.rar?raw=true
+
+
 # Steps
 - Deleted Write Memory
 - Deleted NoRecoil
