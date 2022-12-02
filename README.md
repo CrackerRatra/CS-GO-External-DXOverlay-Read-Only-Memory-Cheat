@@ -6,7 +6,11 @@ If you get an error, add the reference dlls to references in the visual studio
 
 Reference dll files --> https://github.com/CrackerRatra/The-Ratra-/blob/main/ReferencesDlls.rar?raw=true
 
+![Esp Screenshot](https://cdn.discordapp.com/attachments/943892970007040050/1048194030690902066/1337.PNG)
 
+![Menu](https://cdn.discordapp.com/attachments/943892970007040050/1048193964735471656/espbox.PNG)
+
+![Console Screen](https://cdn.discordapp.com/attachments/943892970007040050/1048193964735471656/espbox.PNG)
 # Steps
 - Deleted Write Memory
 - Deleted NoRecoil
