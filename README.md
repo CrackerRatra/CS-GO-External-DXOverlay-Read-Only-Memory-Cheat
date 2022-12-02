@@ -1,4 +1,4 @@
-# CS-GO-External-DXOverlay-Read-Only-Memory-Hack
+# CS-GO-External-DXOverlay-Read-Only-Memory-Cheat
 
 I've taken and edited this source code, now you are unlikely to get a VAC ban!
 
