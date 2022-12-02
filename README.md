@@ -10,7 +10,7 @@ Reference dll files --> https://github.com/CrackerRatra/The-Ratra-/blob/main/Ref
 
 ![Menu](https://cdn.discordapp.com/attachments/943892970007040050/1048193964735471656/espbox.PNG)
 
-![Console Screen](https://cdn.discordapp.com/attachments/943892970007040050/1048193964735471656/espbox.PNG)
+![Console Screen](https://cdn.discordapp.com/attachments/943892970007040050/1048193981642706994/dete.PNG)
 # Steps
 - Deleted Write Memory
 - Deleted NoRecoil
