@@ -3,9 +3,9 @@
 I've taken and edited this source code, now you are unlikely to get a VAC ban!
 
 # Steps
--Deleted Write Memory
--Deleted NoRecoil
--Deleted Recoil Crosshair
+- Deleted Write Memory
+- Deleted NoRecoil
+- Deleted Recoil Crosshair
 
 U can Add Triggerbot if u want
 
