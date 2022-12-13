@@ -1,8 +1,10 @@
 # CS-GO-External-DXOverlay-Read-Only-Memory-Cheat
 
 I've taken and edited this source code, now you are unlikely to get a VAC ban!
-
 If you get an error, add the reference dlls to references in the visual studio
+
+This project uses VAMemory so undetectable for now
+I'm sure it's undetected but I'm not responsible for possible vac bans
 
 Reference dll files --> https://github.com/CrackerRatra/The-Ratra-/blob/main/ReferencesDlls.rar?raw=true
 
@@ -23,10 +25,6 @@ add a basic "mouse1" style Triggerbot
 
 # how to add Aimbot
 add a basic mouse movement Aimbot
-
-This project uses VAMemory so undetectable for now
-
-I'm sure it's undetected but I'm not responsible for possible vac bans
 
 # Real Source Code
 Real Source Code: https://github.com/Lufzys/CSGOCheat
