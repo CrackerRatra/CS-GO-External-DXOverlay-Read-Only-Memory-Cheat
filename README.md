@@ -16,12 +16,13 @@ Reference dll files --> https://github.com/CrackerRatra/The-Ratra-/blob/main/Ref
 - Deleted NoRecoil
 - Deleted Recoil Crosshair
 
-U can Add Triggerbot if u want
+U can Add Triggerbot and Aimbot if u want
 
 # how to add triggerbot
-hmm.. easy
-Use this project for triggerbot --> https://github.com/Rolesional/CS-GO-Safe-Read-Only-Triggerbot
-You can remove the usercmd command, and it to add a triggerbot that works with the logic of "mouse1"
+add a basic "mouse1" style Triggerbot
+
+# how to add Aimbot
+add a basic mouse movement Aimbot
 
 This project uses VAMemory so undetectable for now
 
